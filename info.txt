@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Nexa_Free_Bold
+font link: https://www.fontfabric.com/nexa-free-font/
+font author: Font Fabric
+font author site: http://www.fontfabric.com/
+Slogan Font: Aleo-Light.otf
+
+icon designer: Roleplay
+icon designer link: /roleplay
+        
+
+fontColor: {"hex":"#E88214"}
+bgColor: {"hex":"#000000"}
+iconColor: {"hex":"#E88214"}
+sloganColor: {"hex":"#ffffff"}
+      
